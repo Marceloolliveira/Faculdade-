@@ -1,0 +1,21 @@
+/*
+let  nome = "Marcelo de OLiveira";
+
+console.log(nome);
+
+nome = prompt("Escreva seu nome: ")
+
+alert(`Olá, boa noite, ${nome}`);
+*/
+
+let nome = prompt("Coloque seu nome :");
+let idade = parseInt(prompt("Coloque  sua idade: "));
+
+let ano = 2023 - idade;
+
+alert (`O  ano que voce nasceu  foi: ${ano}`);
+
+
+
+
+
